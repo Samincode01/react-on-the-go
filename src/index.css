@@ -5,3 +5,14 @@
   }
 }
 
+button{
+  border: 1px solid lime;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: aqua;
+}
+
+button:hover{
+  cursor: pointer;
+  background-color: aliceblue;
+}
